@@ -1,12 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>git ready &raquo; {{ page.title }}</title>
-   <meta name="author" content="Nick Quaranto" />
-   <link href="http://feeds2.feedburner.com/git-ready" rel="alternate" title="RSS" type="application/rss+xml" />
+   <title>katy ralko &raquo; {{ page.title }}</title>
+   <meta name="author" content="Katy Ralko" />
    <link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/960.css" type="text/css" media="screen, projection" />
@@ -14,92 +10,33 @@
 <body>
   <div class="container_12">
     <div class="grid_4 prefix_2 title">
-      <h1><a href="/">git ready</a></h1>
+      <h1><a href="/">katy ralko</a></h1>
     </div>
     <div class="grid_4 suffix_2 info">
-      <div class="extra">learn git one commit at a time</div>
-      <div class="author">by Nick Quaranto</div>
+      <div class="extra">portfolio</div>
     </div>
     <div class="grid_8 prefix_2 suffix_2 main">
       {{ content }}
     </div> 
     <div class="grid_2 prefix_2 links">
-      <h3 id="green">beginner</h3>
-      {% for post in site.categories.beginner %}
+      <h3 id="green">film</h3>
+      {% for post in site.categories.film %}
         <a href="{{ post.url }}">{{ post.title }}</a>
       {% endfor %}
     </div>
     <div class="grid_2 links">
-      <h3 id="yellow">intermediate</h3>
-      {% for post in site.categories.intermediate %}
+      <h3 id="yellow">food</h3>
+      {% for post in site.categories.food %}
         <a href="{{ post.url }}">{{ post.title }}</a>
       {% endfor %}
-    </div>
-    <div class="grid_2 links">
-      <h3 id="red">advanced</h3>
-      {% for post in site.categories.advanced %}
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      {% endfor %}
-    </div>
-    <div class="grid_2 suffix_2 links">
-      <h3 id="blue">resources</h3>
-      <a href="http://book.git-scm.com">Git Community Book</a>
-      <a href="http://github.com/guides">GitHub Guides</a>
-      <a href="http://git.or.cz/gitwiki">GitWiki</a>
-      <a href="http://gitcasts.com">GitCasts</a>
-      <a href="http://www.kernel.org/pub/software/scm/git/docs/gittutorial.html">Git for everyone</a>
-      <a href="http://git.or.cz/course/svn.html">Git-SVN Crash Course</a>
-      <a href="http://cheat.errtheblog.com/s/git">$ cheat git</a>
-      <a href="http://whygitisbetterthanx.com">Why Git is Better Than X</a>
-      <a href="http://eagain.net/articles/git-for-computer-scientists/">Git for Computer Scientists</a>
-      <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/">Git Magic</a>
-      <a href="http://www.gitology.com/">Gitology</a>
-      <a href="http://www.gitguru.com/">gitguru</a>
-      <a href="http://progit.org/">Pro Git Book</a>
-      <a href="http://gitref.org/">Git Reference</a>
-      <a href="http://cworth.org/hgbook-git/tour/">A tour of git: the basics</a>
-      <a href="http://www.newartisans.com/2008/04/git-from-the-bottom-up.html">Git from the bottom up</a>
-      <a href="http://gitimmersion.com/">Git Immersion</a>
-    </div>
+    </div>   
     <div class="grid_12 footer">
       <div class="footer_links">
         <a href="/about.html">about</a>
-        <a href="http://github.com/qrush/gitready">code</a>
-        <a href="/submit.html">submit a tip</a>
-        <a class="rss" href="http://feeds.feedburner.com/git-ready">rss</a>
-        <a href="http://twitter.com/gitready">twitter</a>
-      </div>
-      <div class="languages">
-        <span>available in:</span>
-        <a href="http://nl.gitready.com">dutch</a> |
-        <a href="http://pt-br.gitready.com">portuguese</a> |
-        <a href="http://de.gitready.com">german</a> |
-        <a href="http://it.gitready.com">italian</a> |
-        <a href="http://es.gitready.com">spanish</a> |
-        <a href="http://sv.gitready.com">swedish</a> |
-        <a href="http://ru.gitready.com">russian</a> |
-        <a href="http://gitready.com">english</a> |
-        <a href="http://github.com/qrush/gitready/blob/en/README.md">your language?</a>
+        <a href="http://twitter.com/katythebear">twitter</a>
       </div>
       <div>
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a>
       </div>
-      <div id="counter">
-        <script src="http://errcount.com/ctr/762.js"></script>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-  try {
-  var pageTracker = _gat._getTracker("UA-6929260-1");
-  pageTracker._trackPageview();
-  } catch(err) {}</script>
-  <div id="feedburner">
-    <a href="http://feeds2.feedburner.com/git-ready"><img src="http://feeds2.feedburner.com/~fc/git-ready?bg=FFE3A3&amp;fg=000000&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a>
-  </div>
 </body>
 </html>
