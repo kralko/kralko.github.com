@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  font: 13.34px Verdana, helvetica, arial, clean, sans-serif;
+  font: 13.34px Tahoma, Arial, Verdana, sans-serif;
   *font-size: small;
   background: #222;
 }
@@ -70,7 +70,7 @@ p {
   .recent a:hover { color: #FFE3A3; text-decoration: underline; background: none; }
 
   ul.posts span {
-    font-family: Monaco, "Courier New", monospace;
+    font-family: Tahoma, Monaco, monospace;
     font-size: 80%;
   }
 
@@ -94,7 +94,7 @@ p {
   font-weight: bold;
   margin-bottom: 20px;
   font-size: 50px;
-  font-family: "Consolas", "Monaco", "Courier New", "Courier", monospace;
+  font-family: Tahoma, Arial, Verdana,sans-serif;
 }
 
 .info div {
@@ -150,7 +150,7 @@ h2{
 h2 a { color: #000; }
 
 h3{
-  font-family: "Consolas", "Monaco", "Courier New", "Courier", monospace;
+  font-family: "Consolas", "Monaco","Tahoma", Arial, Verdana, monospace;
 	padding: 10px;
 	font-size: 15px;
 	font-weight: bold;
@@ -191,7 +191,7 @@ color: #aaa;
 	font-size: 16px;
 	display:inline-block;
 	padding: 10px;
-	font-family: "Consolas", "Monaco", "Courier New", "Courier", monospace;
+	font-family: "Consolas", "Monaco","Tahoma", "Arial", "Verdana", monospace;
 }
 
 .footer a:hover {
