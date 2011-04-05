@@ -8,9 +8,9 @@ in general, i make no apologies for the things i watch. i find it much less taxi
 
 it was harder, however, for me to justify ARMY WIVES, the Lifetime show that began in 2007 and began its fifth season in march. from the melodrama to the low rent music, it was below even my standards for something to which i'll dedicate significant time.
 
-![Army Wives Logo] (https://s3.amazonaws.com/things.katyralko.com/film/Army-Wives-Movement-to-Contact-Season-5-Episode-3.resized.jpg "Army Wives Logo")
-
 the mixture of strong female characters, a military setting and a commitment to displaying all sides, even the unsavory, of motherhood won me over eventually. when i caught up to the current episode, i cried real tears at the death of a character i knew only tangentially. 
+
+![Army Wives Logo] (https://s3.amazonaws.com/things.katyralko.com/film/Army-Wives-Movement-to-Contact-Season-5-Episode-3.resized.jpg "Army Wives Logo")
 
 my academic writing centers on military life, usually the soldiers deployed in Iraq and Afghanistan who feature so prominently in documentaries like GUNNER PALACE (Tucker 2005) or IRAQ IN FRAGMENTS (Longley 2006). with some notable exceptions (Lynndie England in Morris' 2008 STANDARD OPERATING PROCEDURE comes to mind), these are male films in terms of both creators and content. this is not to say that gender is ignored or pushed aside in these films, and i might even argue that it is the burden of male-ness that unites so many of the soldiers shown. but in terms of simple face time, women are less represented in the armed forces and thus, the films that capture the military life. 
 
