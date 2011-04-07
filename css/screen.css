@@ -116,6 +116,8 @@ p {
 
 .content {
 	background: #F7F7FE;
+-moz-border-radius: 15px;
+border-radius: 15px;
 }
 
 .white {
