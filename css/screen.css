@@ -130,14 +130,14 @@ border-radius: 15px;
   font-size: 80%;
 	display: block;
 	padding: 3px;
-	background: #5FC0CE;
+	background: #C4B9A2;
 }
 
 .links h3 { text-align: center; }
 
 .links a:hover
 {
-	background: #C4B9A2;
+	background: #bfdee3;
 }
 
 h2{
@@ -169,7 +169,7 @@ h3{
 #orange { 
 	text-align: center;
   padding: 0 0 5px; 
-  color: #C4B9A2;
+  color: #bfdee3;
 }
   
 .title a.extra:hover {
@@ -189,7 +189,7 @@ color: #aaa;
 }
 
 .footer a {
-	color: #5FC0CE;
+	color: #000000;
 	font-size: 16px;
 	display:inline-block;
 	padding: 10px;
@@ -197,7 +197,7 @@ color: #aaa;
 }
 
 .footer a:hover {
-	color: #FF7A00;
+	color: #bfdee3;
 	text-decoration: underline;
 }
 
