@@ -56,7 +56,7 @@ p {
 .recent {
   list-style-type: square;
   list-style-position: outside;
-  color: #FFFEE6;
+  color: #000000;
   padding-left: 9px;
   font-size: 95%;
   text-align: left;
@@ -66,8 +66,8 @@ p {
     margin-bottom: 5px;
   }
 
-  .recent a{ color: #36BBCE; } 
-  .recent a:hover { color: #FF7A00; text-decoration: underline; background: none; }
+  .recent a{ color: #000000; } 
+  .recent a:hover { color: #C4B9A2; text-decoration: underline; background: none; }
 
   ul.posts span {
     font-family: Tahoma, Monaco, monospace;
@@ -90,7 +90,7 @@ p {
 }
 
 .title h1 a {
-  color: #5FC0CE;
+  color: #000000;
   font-weight: bold;
   margin-bottom: 20px;
   font-size: 50px;
@@ -102,7 +102,7 @@ p {
 }
 
 .info .extra {
-  color: #36BBCE;
+  color: #000000;
   text-decoration: none;
 	margin-top: 35px;
   font-size: 16px;
@@ -137,7 +137,7 @@ border-radius: 15px;
 
 .links a:hover
 {
-	background: #FF7A00;
+	background: #C4B9A2;
 }
 
 h2{
@@ -162,14 +162,14 @@ h3{
 #post h3{ margin-left: 5px; }
 
 
-#mediumdarkblue { color: #03899C; }	
-#mediumblue { color: #36BBCE; }
-#lightblue { color: #5FC0CE; }
-#darkblue { color: #015965; }
+#mediumdarkblue { color: #000000; }	
+#mediumblue { color: #000000; }
+#lightblue { color: #000000; }
+#darkblue { color: #000000; }
 #orange { 
 	text-align: center;
   padding: 0 0 5px; 
-  color: #FF7A00;
+  color: #C4B9A2;
 }
   
 .title a.extra:hover {
